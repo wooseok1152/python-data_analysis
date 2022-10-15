@@ -1,2 +1,3 @@
-# python-data_analysis
- data_analysis
+# 실습환경
+- IDE  : VScode
+
